@@ -1,16 +1,45 @@
-# recettes_app
+🍎 Recettes App
 
-A new Flutter project.
+Une application Flutter permettant de trouver des recettes ou d'en crée. 
 
-## Getting Started
+🚀 Fonctionnalités principales
 
-This project is a starting point for a Flutter application.
+🍽️ Liste de recettes facile à reproduire.
 
-A few resources to get you started if this is your first Flutter project:
+📊 Création de recettes personalisés.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ Technologies utilisées
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter (SDK mobile multiplateforme)
+
+Dart
+
+Provider pour la gestion d’état
+
+HTTP pour les requêtes API
+
+🧩 Améliorations futures
+
+Ajout de recettes hebdomadaires
+
+Objectifs personnalisés selon le profil utilisateur
+
+📦 Installation
+
+Cloner le projet
+
+git clone
+
+Installer les dépendances
+
+flutter pub get
+
+Lancer l’application
+
+flutter run
+
+👨‍💻 Auteur
+
+Développé par Fernandez Chavero Younes
+
+📧 Contact : fernandezyounesdev@gmail.com
