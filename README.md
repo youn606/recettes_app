@@ -22,7 +22,7 @@ HTTP pour les requêtes API
 
 Ajout de recettes hebdomadaires
 
-Objectifs personnalisés selon le profil utilisateur
+Profiles personnalisés selon le profil utilisateur
 
 📦 Installation
 
