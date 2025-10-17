@@ -28,7 +28,7 @@ Objectifs personnalisés selon le profil utilisateur
 
 Cloner le projet
 
-git clone
+git clone https://github.com/youn606/recettes_app.git
 
 Installer les dépendances
 
